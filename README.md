@@ -41,8 +41,9 @@ Uma árvore de decisão é uma estrutura semelhante a um fluxograma, por isso as
 - Cada ramo que não é um nó folha pode ser considerado como uma **sub-árvore**.
 
 - [Acessar a documentação do Scikit-learn](https://scikit-learn.org/stable/modules/tree.html#classification) 
-- [Acesso rápido ao DataSet](https://github.com/faustinothiagos/CART_Classification_and_Regression_Trees/tree/main/DataSet) 
-- [Acesso rápido ao Jupyter Notebook](https://github.com/faustinothiagos/CART_Classification_and_Regression_Trees/tree/main/Code)
+- [Acesso rápido ao DataSet](https://github.com/faustinothiagos/Brain-Stroke-Prediction-CART/tree/main/DataSet) 
+- [Acesso rápido ao Jupyter Notebook](https://github.com/faustinothiagos/Brain-Stroke-Prediction-CART/tree/main/Code)
+- [Acesso rápido ao Pipiline](https://github.com/faustinothiagos/Brain-Stroke-Prediction-CART/tree/main/Pipiline)
 
 ### Objetivos deste projeto:
 
