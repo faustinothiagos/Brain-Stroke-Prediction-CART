@@ -53,7 +53,7 @@ Uma árvore de decisão é uma estrutura semelhante a um fluxograma, por isso as
 <img src="https://user-images.githubusercontent.com/97195240/186544560-c24b50f3-4dcb-4556-aee0-cfb7d0618629.jpeg" width="400px" />
 </div> 
 
-- Selecionar os dados para modelar. 
+- Fazer uma análise exploratoria de dados. 
 - Treinar o modelo de teste de classificação nesses dados.
 - Avaliar o desempenho do modelo e comparar vantagens e desvantagens.
 - Determinar a importância dos recursos incluidos na previsão. Interpretar.
